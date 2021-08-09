@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (Graficacion.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Source.cpp
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(18,18): warning C4244: 'inicializando': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(29,21): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(29,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(36,21): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(36,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(44,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(65,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(67,19): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(73,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(74,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(93,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(103,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(111,19): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Graficacion\Source.cpp(128,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+  Graficacion.vcxproj -> C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake3D\Debug\Snake3D.exe

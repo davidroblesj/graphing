@@ -1,0 +1,3 @@
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake2D\Debug\Snake2D.pdb
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake2D\Snake2D\Debug\Snake2D.exe
+C:\Users\david\Documents\uni\6to_semestre\graficacion\graphing\Snake2D\Snake2D\Debug\Snake2D.pdb

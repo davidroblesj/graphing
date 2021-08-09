@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(15,18): warning C4244: 'inicializando': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(27,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(41,17): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(41,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(61,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(81,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(84,34): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(84,22): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Snake2D\Source.cpp(92,19): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+  Snake2D.vcxproj -> C:\Users\david\Documents\uni\6to_semestre\graficacion\Snake2D\Snake2D\Debug\Snake2D.exe
